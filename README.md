@@ -27,7 +27,7 @@ tar. Эмулятор работает в режиме CLI.
 <br><b>Функция tac</b> - команда командной строки, которая используется для чтения файла в обратном порядке и отображения содержимого файла с обратными строками.
 <br><b>Функция exit</b> - команда, завершающая работу эмулятора.
 <h3>Пример работы программы</h3>
-<img src="images/dz1_emul_demo.png" align="justify"> 
+<img src="images/dz1_emul_demo.png" align="center"> 
 <h3>Результаты тестирования программы</h3>
-<img src="images/dz1_tests_img.png" align="justify"> 
+<img src="images/dz1_tests_img.png" align="center"> 
 </body>
