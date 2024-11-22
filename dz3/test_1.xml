@@ -1,0 +1,4 @@
+<numbers>
+    <const name="a" value="-1"/>
+    <compute op="$(+ a 4.5)"/>
+</numbers>

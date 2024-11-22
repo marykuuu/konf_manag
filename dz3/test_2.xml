@@ -1,0 +1,11 @@
+<app>
+  <num>5</num>
+  <version>1.0</version>
+    <feature>Logging</feature>
+  <const name="ENV" value="-1"/>
+  <compute op="$(- ENV -4.5)"/>
+</app>
+
+
+
+
