@@ -1,0 +1,44 @@
+[
+    {
+        "command": "LOAD_CONST",
+        "args": [
+            14
+        ],
+        "hex": "A4 0E"
+    },
+    {
+        "command": "READ_MEM",
+        "args": [
+            51
+        ],
+        "hex": "90 33 00"
+    },
+    {
+        "command": "WRITE_MEM",
+        "args": [
+            2
+        ],
+        "hex": "1D 02 00"
+    },
+    {
+        "command": "LOAD_CONST",
+        "args": [
+            7
+        ],
+        "hex": "A4 07"
+    },
+    {
+        "command": "WRITE_MEM",
+        "args": [
+            3
+        ],
+        "hex": "1D 03 00"
+    },
+    {
+        "command": "RCL",
+        "args": [
+            2
+        ],
+        "hex": "4A 02 00"
+    }
+]
